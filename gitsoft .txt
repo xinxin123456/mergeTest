@@ -1,1 +1,4 @@
 git --soft 
+git --soft -1
+
+git--soft add
