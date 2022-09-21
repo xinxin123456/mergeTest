@@ -1,11 +1,4 @@
+
+5
 2
-<<<<<<< Updated upstream
-3
-4
-=======
-3
->>>>>>> Stashed changes
-a
-b
-c
 
